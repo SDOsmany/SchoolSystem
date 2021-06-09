@@ -1,0 +1,5 @@
+*.idea
+/src/com/SchoolSystem
+/src
+/com
+*.iml
